@@ -32,6 +32,4 @@
 *.out
 *.app
 
-# JetBrain IDE
-.idea
-cmake-build-*
+build/
