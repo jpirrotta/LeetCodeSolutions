@@ -16,3 +16,19 @@ If you're reading this and asking that question, yes 😉
 - [Code Wars!](https://www.codewars.com/users/jpirrottadev)
 - [daily.dev](https://app.daily.dev/jpirrottadev)
 - [Super Secret Social Media Account](https://www.youtube.com/watch?v=xvFZjo5PgG0)
+
+
+# 📘 LeetCode Problem Solving Tracker
+
+## ✏️ Legend
+- ✅ = Solved
+- 🔁 = Revisit Needed
+- 💡 = Learned something new
+
+---
+
+## Week 1 – Arrays & Strings
+
+| ✅ | Problem | Difficulty | Pattern / DS | Your Approach | Notes / Key Learnings |
+|----|---------|------------|----------------|----------------|------------------------|
+| ✅ | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | HashMap | Brute force → Optimized with hashmap | Learned quick lookup via map |
